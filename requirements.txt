@@ -1,0 +1,4 @@
+lxml
+ebooklib
+requests
+tkcalendar
